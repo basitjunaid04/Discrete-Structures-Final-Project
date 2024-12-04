@@ -1,0 +1,16 @@
+# Number of nodes
+3
+
+# Node attributes
+0 1
+1 2
+2 3
+
+# Edges
+2
+0 1 85
+0 2 95
+1
+1 2 90
+1
+2 0 80
